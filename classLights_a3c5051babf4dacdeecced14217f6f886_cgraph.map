@@ -1,0 +1,10 @@
+<map id="Lights::setTimerOnOff" name="Lights::setTimerOnOff">
+<area shape="rect" id="node2" href="$classLights.html#a291179d021dad8a22d3f27203fcaa819" title="Lights::checkLightTimer" alt="" coords="204,5,365,32"/>
+<area shape="rect" id="node4" href="$classModule.html#a7bbcaed333a0028cb8f80737c18627a4" title="Module::addToLog" alt="" coords="627,56,756,83"/>
+<area shape="rect" id="node6" href="$classModule.html#a1c18e93583f527d470be447a9fcd1a0b" title="Module::getSoundObject" alt="" coords="609,157,774,184"/>
+<area shape="rect" id="node7" href="$classSound.html#a038f9173934d27db8004ded6db667df6" title="Sound::playOnSound" alt="" coords="619,208,764,235"/>
+<area shape="rect" id="node8" href="$classSound.html#a53aa4bec2fd464c5149ca30b29b35ac1" title="Sound::playOffSound" alt="" coords="618,259,765,285"/>
+<area shape="rect" id="node3" href="$classLights.html#ab18f05b043b61b6eb74bd7b564e1a1ec" title="Lights::setLightOnOff" alt="" coords="413,107,560,133"/>
+<area shape="rect" id="node5" href="$Gbox420__Mega__Main_2SerialLog_8cpp.html#a144a94d1be393a07bb6ec696926e2153" title="Logging. " alt="" coords="823,31,917,57"/>
+<area shape="rect" id="node9" href="$classLights.html#a358764e84694051f14f8cdc89dab44ee" title="Lights::checkLightStatus" alt="" coords="608,107,775,133"/>
+</map>

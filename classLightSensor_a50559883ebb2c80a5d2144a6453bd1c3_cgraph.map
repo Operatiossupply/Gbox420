@@ -1,0 +1,14 @@
+<map id="LightSensor::triggerCalibration" name="LightSensor::triggerCalibration">
+<area shape="rect" id="node2" href="$classModule.html#a7bbcaed333a0028cb8f80737c18627a4" title="Module::addToLog" alt="" coords="496,283,625,309"/>
+<area shape="rect" id="node3" href="$Gbox420__Mega__Main_2SerialLog_8cpp.html#a144a94d1be393a07bb6ec696926e2153" title="Logging. " alt="" coords="692,355,787,381"/>
+<area shape="rect" id="node4" href="$classModule.html#a1c18e93583f527d470be447a9fcd1a0b" title="Module::getSoundObject" alt="" coords="478,5,643,32"/>
+<area shape="rect" id="node5" href="$classSound.html#a038f9173934d27db8004ded6db667df6" title="Sound::playOnSound" alt="" coords="488,56,633,83"/>
+<area shape="rect" id="node6" href="$classLights.html#a240cc60cfb0f2b94b1cd9e8a9202b7ee" title="Lights::getStatus" alt="" coords="279,208,401,235"/>
+<area shape="rect" id="node7" href="$classLights.html#aea8e88f2668fbcc2d3e36dcfe51fbfa5" title="Lights::getBrightness" alt="" coords="267,259,413,285"/>
+<area shape="rect" id="node8" href="$classLights.html#ab18f05b043b61b6eb74bd7b564e1a1ec" title="Lights::setLightOnOff" alt="" coords="267,107,413,133"/>
+<area shape="rect" id="node11" href="$classLights.html#a07adf7d87869f70fbe9f258c2b47e886" title="Lights::setBrightness" alt="" coords="267,309,413,336"/>
+<area shape="rect" id="node13" href="$classLightSensor.html#a73dea4504d64c13c43a5c68bee9aef27" title="Website signals to calibrate the Dark/Min/Max readings at the next refresh trigger. " alt="" coords="251,361,429,402"/>
+<area shape="rect" id="node9" href="$classSound.html#a53aa4bec2fd464c5149ca30b29b35ac1" title="Sound::playOffSound" alt="" coords="487,157,634,184"/>
+<area shape="rect" id="node10" href="$classLights.html#a358764e84694051f14f8cdc89dab44ee" title="Lights::checkLightStatus" alt="" coords="477,107,644,133"/>
+<area shape="rect" id="node12" href="$Gbox420__Mega__Main_2src_2Helpers_8cpp.html#aa13f229d47e2d68e33f7b62d9ccdb15d" title="Text formating. " alt="" coords="531,337,590,364"/>
+</map>

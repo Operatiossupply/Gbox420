@@ -1,0 +1,12 @@
+<map id="Lights_Web::websiteEvent_Button" name="Lights_Web::websiteEvent_Button">
+<area shape="rect" id="node2" href="$classCommon.html#a0192d295366bf1e966d8b58a3ce57554" title="Common::isThisMyComponent" alt="" coords="431,321,633,348"/>
+<area shape="rect" id="node4" href="$classLights.html#ab18f05b043b61b6eb74bd7b564e1a1ec" title="Lights::setLightOnOff" alt="" coords="681,169,828,196"/>
+<area shape="rect" id="node10" href="$classLights.html#a3c5051babf4dacdeecced14217f6f886" title="Lights::setTimerOnOff" alt="" coords="232,144,383,170"/>
+<area shape="rect" id="node3" href="$Gbox420__Mega__Main_2SerialLog_8cpp.html#a144a94d1be393a07bb6ec696926e2153" title="Logging. " alt="" coords="1091,270,1185,297"/>
+<area shape="rect" id="node5" href="$classModule.html#a7bbcaed333a0028cb8f80737c18627a4" title="Module::addToLog" alt="" coords="895,270,1024,297"/>
+<area shape="rect" id="node6" href="$classModule.html#a1c18e93583f527d470be447a9fcd1a0b" title="Module::getSoundObject" alt="" coords="877,118,1042,145"/>
+<area shape="rect" id="node7" href="$classSound.html#a038f9173934d27db8004ded6db667df6" title="Sound::playOnSound" alt="" coords="887,220,1032,246"/>
+<area shape="rect" id="node8" href="$classSound.html#a53aa4bec2fd464c5149ca30b29b35ac1" title="Sound::playOffSound" alt="" coords="886,68,1033,94"/>
+<area shape="rect" id="node9" href="$classLights.html#a358764e84694051f14f8cdc89dab44ee" title="Lights::checkLightStatus" alt="" coords="876,169,1043,196"/>
+<area shape="rect" id="node11" href="$classLights.html#a291179d021dad8a22d3f27203fcaa819" title="Lights::checkLightTimer" alt="" coords="451,68,613,94"/>
+</map>

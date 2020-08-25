@@ -1,0 +1,8 @@
+<map id="toText_enabledDisabled" name="toText_enabledDisabled">
+<area shape="rect" id="node2" href="$classLights.html#a8899969e0175e8242f9139c17585bcd0" title="Lights::getTimerOnOffText" alt="" coords="233,35,411,61"/>
+<area shape="rect" id="node5" href="$classAeroModule__Web.html#a35ff242acc077bb3a9d75ab70c7ce40f" title="called when website is refreshed. " alt="" coords="216,86,428,127"/>
+<area shape="rect" id="node6" href="$classMainModule.html#aec045e522ee94def7334cf9527aded76" title="MainModule::report" alt="" coords="255,152,389,179"/>
+<area shape="rect" id="node7" href="$classHempyBucket.html#acfee435c7b1c62a03ad067b92a676102" title="HempyBucket::report" alt="" coords="249,203,395,229"/>
+<area shape="rect" id="node3" href="$classLights__Web.html#ae85b3fa68524315070fef4c9bcdb6a12" title="Lights_Web::reportToJSON" alt="" coords="476,5,659,32"/>
+<area shape="rect" id="node4" href="$classLights__Web.html#af46bb9ec74ecb0f45b465c2722b9b18a" title="Lights_Web::websiteEvent\l_Refresh" alt="" coords="478,57,657,98"/>
+</map>

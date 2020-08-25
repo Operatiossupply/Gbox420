@@ -1,0 +1,11 @@
+<map id="Lights::refresh_Minute" name="Lights::refresh_Minute">
+<area shape="rect" id="node2" href="$classCommon.html#a14e4462a94bd118028ce1d487ca0292c" title="Common::refresh_Minute" alt="" coords="413,5,583,32"/>
+<area shape="rect" id="node4" href="$classLights.html#a291179d021dad8a22d3f27203fcaa819" title="Lights::checkLightTimer" alt="" coords="204,171,365,197"/>
+<area shape="rect" id="node10" href="$classLights.html#a358764e84694051f14f8cdc89dab44ee" title="Lights::checkLightStatus" alt="" coords="631,309,797,336"/>
+<area shape="rect" id="node3" href="$Gbox420__Mega__Main_2SerialLog_8cpp.html#a144a94d1be393a07bb6ec696926e2153" title="Logging. " alt="" coords="845,56,940,83"/>
+<area shape="rect" id="node5" href="$classLights.html#ab18f05b043b61b6eb74bd7b564e1a1ec" title="Lights::setLightOnOff" alt="" coords="425,183,571,209"/>
+<area shape="rect" id="node6" href="$classModule.html#a7bbcaed333a0028cb8f80737c18627a4" title="Module::addToLog" alt="" coords="649,107,779,133"/>
+<area shape="rect" id="node7" href="$classModule.html#a1c18e93583f527d470be447a9fcd1a0b" title="Module::getSoundObject" alt="" coords="631,157,797,184"/>
+<area shape="rect" id="node8" href="$classSound.html#a038f9173934d27db8004ded6db667df6" title="Sound::playOnSound" alt="" coords="641,208,787,235"/>
+<area shape="rect" id="node9" href="$classSound.html#a53aa4bec2fd464c5149ca30b29b35ac1" title="Sound::playOffSound" alt="" coords="641,259,787,285"/>
+</map>

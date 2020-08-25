@@ -1,0 +1,8 @@
+<map id="LightSensor::report" name="LightSensor::report">
+<area shape="rect" id="node2" href="$classCommon.html#a9e60e2c26a5f4d72342a59a969954636" title="Common::report" alt="" coords="223,5,339,32"/>
+<area shape="rect" id="node3" href="$Gbox420__Mega__Main_2SerialLog_8cpp.html#a144a94d1be393a07bb6ec696926e2153" title="Logging. " alt="" coords="429,31,523,57"/>
+<area shape="rect" id="node4" href="$classLightSensor.html#a70fd8f7252cbc9abb2ea501ccfaf08fe" title="Light sensor digital feedback: True(Dark) or False(Bright) " alt="" coords="195,107,366,133"/>
+<area shape="rect" id="node7" href="$classLightSensor.html#a944d5fa4086a10226cdffb5e9a17d80f" title="Light sensor analog feedback: 0(darkest) to 1023 (brightest) " alt="" coords="185,157,376,184"/>
+<area shape="rect" id="node5" href="$Gbox420__Mega__Main_2src_2Helpers_8cpp.html#a0fa70bd2116a004bbaca24c9bd23808c" title="toText_yesNo" alt="" coords="424,107,528,133"/>
+<area shape="rect" id="node6" href="$Gbox420__Mega__Main_2src_2Helpers_8cpp.html#aa13f229d47e2d68e33f7b62d9ccdb15d" title="Text formating. " alt="" coords="447,157,505,184"/>
+</map>
